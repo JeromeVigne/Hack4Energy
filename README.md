@@ -12,3 +12,5 @@ Papers scoping out solutions:
 - Strategies for improving technical screens [LINK](./research-papers/strategies-for-improving-technical-screens.pdf)
 
 
+Transcript, recordings and slide deck from the i2X-Solutions e-Xchange:
+[LINK](https://www.energy.gov/eere/i2x/i2x-solution-e-xchanges)
